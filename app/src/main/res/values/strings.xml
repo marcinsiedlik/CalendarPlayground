@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Calendar Playground</string>
+
+  <string name="cancel">Cancel</string>
+  <string name="create_event">Utwórz wydarzenie</string>
+  <string name="name">Nazwa</string>
+  <string name="description">Opis</string>
+  <string name="from_arg">od: %1$s</string>
+  <string name="to_arg">do: %1$s</string>
+  <string name="create">Utwórz</string>
+  <string name="field_required">Pole wymagane</string>
+  <string name="name_too_short">Nazwa jest za krótka</string>
+</resources>
